@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "894296873859",
+    "project_id": "perfect-lantern-424020-b9",
+    "storage_bucket": "perfect-lantern-424020-b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894296873859:android:65cfa495909f80f71874b6",
+        "android_client_info": {
+          "package_name": "com.example.donorfusion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyXKAV-pXJ-Vksl17yRSbvwUZ-Etao2hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
